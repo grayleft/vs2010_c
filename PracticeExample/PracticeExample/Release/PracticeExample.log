@@ -1,0 +1,23 @@
+﻿Build started 4/30 星期一 11:31:32.
+     1>Project "E:\vs2010_c\PracticeExample\PracticeExample\PracticeExample.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "E:\vs2010_c\PracticeExample\Release\".
+       InitializeBuildStatus:
+         Creating "Release\PracticeExample.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt StartPractice.cpp
+         StartPractice.cpp
+     1>e:\vs2010_c\practiceexample\practiceexample\conditional.h(11): error C2065: '（GetNumber' : undeclared identifier
+     1>e:\vs2010_c\practiceexample\practiceexample\conditional.h(11): error C2146: syntax error : missing ';' before identifier '）？printf'
+     1>e:\vs2010_c\practiceexample\practiceexample\conditional.h(11): error C2146: syntax error : missing ';' before identifier '：printf'
+     1>e:\vs2010_c\practiceexample\practiceexample\conditional.h(11): error C3861: '）？printf': identifier not found
+     1>e:\vs2010_c\practiceexample\practiceexample\conditional.h(12): error C2146: syntax error : missing ';' before identifier '；'
+     1>e:\vs2010_c\practiceexample\practiceexample\conditional.h(11): error C3861: '：printf': identifier not found
+     1>e:\vs2010_c\practiceexample\practiceexample\conditional.h(12): error C2065: '；' : undeclared identifier
+     1>e:\vs2010_c\practiceexample\practiceexample\conditional.h(12): error C2143: syntax error : missing ';' before '}'
+     1>StartPractice.cpp(11): error C2065: 'JudgeOddOrEvenNumber（GetNumber）' : undeclared identifier
+     1>Done Building Project "E:\vs2010_c\PracticeExample\PracticeExample\PracticeExample.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.10
