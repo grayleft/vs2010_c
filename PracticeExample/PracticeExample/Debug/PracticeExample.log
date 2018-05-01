@@ -1,4 +1,4 @@
-﻿Build started 5/1 星期二 0:52:40.
+﻿Build started 5/1 星期二 23:43:09.
      1>Project "E:\vs2010_c\PracticeExample\PracticeExample\PracticeExample.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\PracticeExample.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -14,4 +14,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.03
+Time Elapsed 00:00:00.04
