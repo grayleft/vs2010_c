@@ -1,17 +1,17 @@
-﻿Build started 5/1 星期二 23:43:09.
-     1>Project "E:\vs2010_c\PracticeExample\PracticeExample\PracticeExample.vcxproj" on node 2 (build target(s)).
+﻿Build started 2018/5/2 17:29:35.
+     1>Project "D:\vs2010_c\PracticeExample\PracticeExample\PracticeExample.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\PracticeExample.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
          All outputs are up-to-date.
        Link:
          All outputs are up-to-date.
-         PracticeExample.vcxproj -> E:\vs2010_c\PracticeExample\Debug\PracticeExample.exe
+         PracticeExample.vcxproj -> D:\vs2010_c\PracticeExample\Debug\PracticeExample.exe
        FinalizeBuildStatus:
          Deleting file "Debug\PracticeExample.unsuccessfulbuild".
          Touching "Debug\PracticeExample.lastbuildstate".
-     1>Done Building Project "E:\vs2010_c\PracticeExample\PracticeExample\PracticeExample.vcxproj" (build target(s)).
+     1>Done Building Project "D:\vs2010_c\PracticeExample\PracticeExample\PracticeExample.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.04
+Time Elapsed 00:00:00.13
